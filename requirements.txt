@@ -1,0 +1,33 @@
+# DEPENDENCIAS
+
+# 📊 Datos y análisis
+pandas                  # Manejo de series temporales
+numpy                   # Operaciones matemáticas
+yfinance                # Datos históricos desde Yahoo Finance
+scipy
+
+
+# 📉 Visualización
+matplotlib              # Gráficos básicos
+plotly                  # Gráficos interactivos
+
+# 💹 Trading APIs
+alpaca-trade-api        # API de trading con Alpaca
+
+# 🧪 Research cuantitativo avanzado
+vectorbt                # Backtesting y análisis masivo
+bt                      # Framework de backtesting con pandas
+quantstats              # Métricas de portafolio y performance
+
+# 📈 Technical Analysis & Backtesting
+TA-Lib                  # Indicadores técnicos como RSI, MACD, BB
+zipline-reloaded        # Zipline (versión mantenida)
+backtrader              # Motor de backtesting muy usado
+ccxt                    # Acceso a exchanges cripto
+
+# 📦 Otros
+alpaca-trade-api
+python-dotenv
+
+
+
